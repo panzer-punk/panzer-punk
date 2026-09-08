@@ -30,8 +30,8 @@ I contribute to an OpenSearch engine for Laravel Scout. My work includes cursor 
 
 ## Contributions to other projects
 
-- [Laravel Serializable Closure](https://github.com/laravel/serializable-closure/pull/102) — fixed code generation for closures containing ternary expressions and object creation without constructor parentheses.
-- [Meilisearch PHP](https://github.com/meilisearch/meilisearch-php/pull/523) — fixed field selection for the document fetch endpoint.
+- [Laravel Serializable Closure](https://github.com/laravel/serializable-closure/pull/102) - fixed code generation for closures containing ternary expressions and object creation without constructor parentheses.
+- [Meilisearch PHP](https://github.com/meilisearch/meilisearch-php/pull/523) - fixed field selection for the document fetch endpoint.
 
 ## What interests me
 
